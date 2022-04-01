@@ -6,4 +6,4 @@
 |HW1  |COVID-19 Cases Prediction         |607/944|
 |HW2  |LibriSpeech phoneme classification|133/615|
 |HW3  |Image_Classification              | 30/549|
-|HW4  |Speaker prediction                |/470|
+|HW4  |Speaker prediction                |67/517|
