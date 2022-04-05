@@ -7,3 +7,4 @@
 |HW2  |LibriSpeech phoneme classification|133/615|
 |HW3  |Image_Classification              | 30/549|
 |HW4  |Speaker prediction                |67/517|
+|HW5  |GAN-Machine Translation           ||
