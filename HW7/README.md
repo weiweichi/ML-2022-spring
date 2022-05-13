@@ -5,3 +5,6 @@
 * type2: [hfl/chinese-pert-large](https://github.com/ymcui/PERT)
 * type3: [roberta-base-chinese-extractive-qa](https://huggingface.co/uer/roberta-base-chinese-extractive-qa)
 
+| ranking | public score | private score |
+| :-----: | ------------ | ------------- |
+|  2/491  | 0.85558      | 0.84301       |
