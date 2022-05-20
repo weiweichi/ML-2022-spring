@@ -11,3 +11,5 @@
 |  HW6  | GAN-Anime face generation          |         |
 |  HW7  | BERT                               |  2/491  |
 |  HW8  | Autoencoder                        | 212/495 |
+|  HW9  | Explainable AI                     |         |
+| HW10  | Attack                             |         |
