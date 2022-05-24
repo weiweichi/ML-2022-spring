@@ -13,3 +13,4 @@
 |  HW8  | Autoencoder                        | 212/495 |
 |  HW9  | Explainable AI                     |         |
 | HW10  | Attack                             |         |
+| HW11  | Adaptation                         |         |
