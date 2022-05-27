@@ -1,5 +1,5 @@
 *   I implemented `adaption` to pass strong baseline.
-*   I slightly adjusted `model` to pass boss baseline.
+*   I fine-tuned `model` to pass boss baseline.
 
 
 |     model     | public  | private |
