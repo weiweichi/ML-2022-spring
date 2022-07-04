@@ -17,4 +17,4 @@
 | HW12  | Reinforement learning | 404 not found :( |   10   |   boss   |
 | hw13  | Compression           |     122/257      |   9    |  strong  |
 | hw14  | Life-long             |        -         |   0    |    -     |
-| hw15  | Meta Learning         |        -         |   0    |    -     |
+| hw15  | Meta Learning         |     189/194      |   0    |  simple  |
